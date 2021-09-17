@@ -651,7 +651,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color: #575757;
 }
 
 .container {
@@ -1056,6 +1056,7 @@ a {
     font-size: 25px;
 }
 .contraste {
+    font-family: "helvetica";
     font-weight: bolder;
     color: #0F0F0F;
 }
