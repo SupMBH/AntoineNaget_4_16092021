@@ -1040,3 +1040,15 @@ h4 {
         text-align: center;
     }
 }
+/*OPTIMISATION*/
+p {
+    font-size: 15px;
+}
+.hidden {
+    position: absolute !important;
+    clip: rect(1px 1px 1px 1px); /* IE6, IE7 */
+    clip: rect(1px, 1px, 1px, 1px);
+    height: 1px;
+    overflow: hidden;
+    width: 1px;
+ }
