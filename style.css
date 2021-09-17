@@ -1052,3 +1052,6 @@ p {
     overflow: hidden;
     width: 1px;
  }
+a {
+    font-size: 25px;
+}
