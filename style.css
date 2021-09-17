@@ -1056,5 +1056,6 @@ a {
     font-size: 25px;
 }
 .contraste {
-    color: #000000;
+    font-weight: bolder;
+    color: #0F0F0F;
 }
