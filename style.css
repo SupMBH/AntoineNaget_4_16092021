@@ -925,5 +925,9 @@ a {
     color:#364577;
 }
 .illibis {
-    color:#364577 !important
+    color:#364577 !important;
+}
+#correcjpg {
+    font-family: "helvetica" !important;
+    font-weight: 400 !important;
 }
