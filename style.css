@@ -922,5 +922,8 @@ a {
 .contraste {
     font-family: "helvetica";
     font-weight: bolder;
-    color: #0F0F0F;
+    color:#364577;
+}
+.illibis {
+    color:#364577 !important
 }
