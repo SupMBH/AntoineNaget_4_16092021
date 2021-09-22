@@ -926,4 +926,8 @@ a {
 }
 .illibis {
     color:#364577 !important;
+    font-weight: bolder;
+}
+.blanc {
+    color: #FFFFFF !important;
 }
